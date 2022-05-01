@@ -1,4 +1,4 @@
-FROM fauria/vsftpd:latest
+FROM fauria/vsftpd
 
 LABEL maintainer "Dschinghis Kahn"
 
